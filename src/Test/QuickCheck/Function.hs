@@ -43,6 +43,7 @@ module Test.QuickCheck.Function
   , applyFun3
   , (:->)
   , Function(..)
+  , mkFun
   , functionMap
   , functionShow
   , functionIntegral
